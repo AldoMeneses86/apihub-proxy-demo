@@ -22,7 +22,7 @@ metadata:
    apihub-lifecycle: develop
    apihub-style: apihub-openapi
    apihub-target-users: public
-   apihub-team: bap-ce-emea
+   apihub-team: bap-ce-latam
  annotations:
    apihub-primary-contact: xtof@example.com
    apihub-primary-contact-description: Apigee BAP demo builder team 
@@ -33,7 +33,7 @@ data:
  availability: NONE
  versions:
    - metadata:
-       name: "100"
+       name: "1.0.0"
        annotations:
          apihub-end-of-life-type: apihub-unknown
      data:
