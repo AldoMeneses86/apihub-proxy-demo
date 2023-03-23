@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
-  description: Get Airports list and details
+  description: Get Airports list and details...
   version: 1.0.0
-  title: Airports 
+  title: Airports
   contact:
     name: Apigee Devrel
     url: https://github.com/apigee/devrel
