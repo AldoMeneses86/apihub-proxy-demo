@@ -33,7 +33,7 @@ data:
  availability: NONE
  versions:
    - metadata:
-       name: "100"
+       name: "1.0.0"
        annotations:
          apihub-end-of-life-type: apihub-unknown
      data:
