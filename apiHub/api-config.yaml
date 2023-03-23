@@ -27,7 +27,7 @@ metadata:
    apihub-primary-contact: xtof@example.com
    apihub-primary-contact-description: Apigee BAP demo builder team
 data:
- displayName: Airports cicd
+ displayName: Airports cicd 😎
  description: "This Airports-CICD API is meant to show how an API description document can have a revision history as well as a set of deployments. \n\nThings to check out:\n- History tab to see how the revisions to the OpenAPI document over time\n- Deployments view, to understand which revision is in use where\n- Versions view, to have a clear view off all API versions and status."
  recommendedDeployment: dev
  availability: NONE
@@ -37,7 +37,7 @@ data:
        annotations:
          apihub-end-of-life-type: apihub-unknown
      data:
-       displayName: 1.0.0
+       displayName: 1.0.1
        state: develop
        specs:
          - metadata:
@@ -59,7 +59,7 @@ data:
        displayName: dev
        apiSpecRevision: 100/specs/airport-1.0.0yaml@latest
        endpointURI: 34.120.87.104.nip.io
-       externalChannelURI: https://34.120.87.104.nip.io-cltest.apigee.io
+       externalChannelURI: https://ce-apigee-demo-portal.apigee.io
        intendedAudience: The development version of Airports-CICD API
        accessGuidance: All access is self-service through our public developer portal. Visit the site to self-manage access.
  artifacts:

@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   description: Get Airports list and details...
-  version: 1.0.0
+  version: 1.0.1
   title: Airports
   contact:
     name: Apigee Devrel
