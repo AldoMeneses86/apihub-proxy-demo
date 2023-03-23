@@ -1,18 +1,17 @@
 swagger: '2.0'
 info:
   description: Get Airports list and details
-  version: 1.0.0
+  version: 1.0.1
   title: Airports 
   contact:
     name: Apigee Devrel
     url: https://github.com/apigee/devrel
 
-
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
-
-host: 34.117.38.184.nip.io
+    
+host: 34.120.87.104.nip.io
 schemes:
   - https
 
